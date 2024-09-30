@@ -10,6 +10,7 @@ const Navber = () => {
            <Link href={"/About"}>About</Link>
            <Link href={"/Contact"}>Contact</Link>
            <Link href={"/More"}>More</Link>
+           <Link href={"/Post"}>Post</Link>
 
          </div>
 
