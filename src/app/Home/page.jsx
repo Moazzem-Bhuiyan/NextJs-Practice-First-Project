@@ -1,3 +1,5 @@
+import { ImageSlider } from "@/Components/Imageslider";
+
 
 
 const page = () => {
@@ -5,7 +7,7 @@ const page = () => {
     return (
         <div>
             
-            <h1>This is Home page </h1>
+            <ImageSlider/>
 
 
         </div>
